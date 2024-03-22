@@ -1,0 +1,2 @@
+Day 1: Integrate Git repo into VScode, made python file and updated readme
+Day 2: Created the milestone tracker, Went to link github to an aws codepipeline and was told my account was flagged as spam. Submitted report request.
