@@ -1,2 +1,4 @@
 Day 1: Integrate Git repo into VScode, made python file and updated readme
 Day 2: Created the milestone tracker, Went to link github to an aws codepipeline and was told my account was flagged as spam. Submitted report request.
+Day 3: I broke Git in my VScode and Support is still useless
+Day 4: Maku was marginally less useless than support. Perhaps they should hire him.
